@@ -1,0 +1,5 @@
+*.hi
+*.o
+/payment-routing-engine
+/payment-routing-engine.exe
+/dist-newstyle/
